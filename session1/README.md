@@ -1,5 +1,5 @@
 <div dir="rtl">
-<h2><img style="display: block; margin-left: auto; margin-right: auto;" src="/blog/image.axd?picture=/extjs/ext-cube.png" alt="" width="519" height="223" /></h2>
+<h2><img style="display: block; margin-left: auto; margin-right: auto;" src="http://armandar.com/blog/image.axd?picture=/extjs/ext-cube.png" alt="" width="519" height="223" /></h2>
 <h2>مقدمه</h2>
 <p>در این دوره آموزشی قصد دارم با استفاده از مثال های متنوع کارکرد ها و نحوه استفاده از کتابخانه غنی Ext&nbsp;Js را آموزش دهم.</p>
 <p>این دوره آموزشی شامل مباحث زیر می شود که هر کدام ممکن است 2 الی 3 جلسه به طول بینجامد و&nbsp; به مرور در وبلاگ قرار خواهد گرفت:</p>
