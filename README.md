@@ -1,3 +1,4 @@
+<div style="direction:rtl; text-align:right;">
 # extjsbyexample
 Learn Ext Js With Examples For Persian Language Users
 
@@ -6,3 +7,4 @@ Learn Ext Js With Examples For Persian Language Users
 http://armandar.com/blog
 
 به تریج آموزش ها همراه با مثال های مد نظر در این بخش قرار خواهد گرفت.
+</div>
