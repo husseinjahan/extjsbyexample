@@ -1,3 +1,4 @@
+<div dir="rtl">
 <p>همانطور که در انتهای <a href="http://armandar.com/blog/post/setting-up-extjs-and-sencha-cmd" target="_blank">جلسه گذشته</a> عنوان کردم برای اینکه توسعه نرم&zwnj;افزارها با Ext JS آسان تر شود باید ابزاری به نام Sencha CMD را نصب کنید. این نرم افزار برای ویندوزُ مکینتاش و لینوکس ارائه&nbsp;شده است.</p>
 <blockquote>
 <p>Sencha CMD ابزاری الزامی برای کار کردن با Ext JS نیست ولی استفاده از آن زندگی را راحت تر میکند ;-) بنابراین توصیه اکید میکنم این ابزار را حتما نصب کنید.</p>
@@ -72,3 +73,5 @@ sencha app watch</pre>
 <blockquote>
 <p>در جلسه آینده در رابطه با MVC و تعدادی از فایلهایی که Sencha CMD در هنگام تولید نرم&zwnj;افزار ArmandarApp تولید کرده است صحبت خواهیم کرد.</p>
 </blockquote>
+
+</div>
